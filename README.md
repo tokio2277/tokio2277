@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tokio2277
-- 👀 I’m interested in gaming
-- 🌱 I’m currently learning nothing
+- 👀 I’m interested in nothing
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on pros
 - 📫 How to reach me ...
 
